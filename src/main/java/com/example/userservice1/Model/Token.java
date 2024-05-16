@@ -1,2 +1,4 @@
-package com.example.userservice1.Model;public class Token {
+package com.example.userservice1.Model;
+
+public class Token {
 }
